@@ -14,7 +14,7 @@ manifest:
     - name: zmk-pmw3610-driver
       remote: kumamuk-git
       revision: main
-     - name: prospector-zmk-module
+    - name: prospector-zmk-module
       remote: prospector
       revision: v2.0.0  # Use specific version tag
       path: modules/prospector-zmk-module
